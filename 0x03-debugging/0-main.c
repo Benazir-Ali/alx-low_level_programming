@@ -2,8 +2,6 @@
 
 /*
  * main - tests code
- *
- * Description: main
  * Return: 0
  */
 int main(void)
