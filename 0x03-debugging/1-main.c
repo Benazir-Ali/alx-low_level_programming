@@ -3,6 +3,7 @@
 /**
  * main - infinite loop
  *
+ * Description: infinite
  * Return: 0
  */
 int main(void)
