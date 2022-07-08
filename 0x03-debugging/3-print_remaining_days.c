@@ -2,12 +2,12 @@
 #include "main.h"
 
 /**
- * print_remining_days - remaining days
+ * print_remaining_days - remaining days
  * @month: month
  * @day: day
  * @year: year
  */
-void print_remining_days(int month, int day, int year)
+void print_remaining_days(int month, int day, int year)
 
 {
 	if ((year % 100 == 0 && year % 400 == 0) || (year % 4 == 0))
